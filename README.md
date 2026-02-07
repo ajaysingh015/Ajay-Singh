@@ -1,6 +1,5 @@
 # Ajay-Singh
 Machine Learning (ML)-Drived Optimization Platform for Multistep Synthesis of Anticancer Pyrazolopyrimidines
-Machine Learning for Efficient Substitution Control towards Azido Substituted L-Sugar Synthesis via Flow Chemistry
 
 mp1.py represents the code for the synthesis of compound 3.
 
@@ -26,8 +25,8 @@ Hardware & System Connections
 Device	Port	Baud Rate	Function
 HPLC Pump1	COM5	9600	Flowrate control
 HPLC Pump2	COM29	9600	Flowrate control
-Syringe Pump2	COM16	9600	Flowrate control
-Syringe Pump1	COM18	9600	Flowrate control
+Syringe Pump1	COM16	9600	Flowrate control
+Syringe Pump2	COM18	9600	Flowrate control
 Temperature Controller	COM19	9600	Heating and monitoring
 Arduino Pressure Controller	COM50	9600	Pressure regulation
 3D Printer Collector	COM46	115200	Fraction collector
