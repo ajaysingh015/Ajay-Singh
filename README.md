@@ -41,7 +41,7 @@ Export FTIR spectral data to CSV format from ReactIR 15.
 
 Update the path in the Python script:
 
-mypath = m"C:\Users\Admin\Desktop\Ibrutinib\Exp 2024-08-16 10-34"
+mypath = r"C:\\Users\\Admin\\Desktop\\Ibrutinib automation\\Exp 2024-07-15 12-16"
 
 Ensure all instrument COM ports are correctly mapped.
 
